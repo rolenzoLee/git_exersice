@@ -8,7 +8,7 @@ public class NewGame {
         int[] numCheckArr = new int[10];
         int temp;
         
-        // generate 4 random number
+        // generate 4 random number2
         for (int i = 0; i < 4;) {
             if (i == 0) {
                 temp =(int)(Math.random() * 9) + 1;
